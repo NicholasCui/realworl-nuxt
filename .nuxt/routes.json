@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "/Users/nicholas/Documents/learning/realworl-nuxt/pages/layout",
+    "children": [
+      {
+        "path": "",
+        "name": "home",
+        "component": "/Users/nicholas/Documents/learning/realworl-nuxt/pages/home",
+        "_name": "_096c0873"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "/Users/nicholas/Documents/learning/realworl-nuxt/pages/login",
+        "_name": "_244d4e55"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "/Users/nicholas/Documents/learning/realworl-nuxt/pages/login",
+        "_name": "_244d4e55"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "/Users/nicholas/Documents/learning/realworl-nuxt/pages/profile",
+        "_name": "_1f59dd95"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "/Users/nicholas/Documents/learning/realworl-nuxt/pages/settings",
+        "_name": "_5d21e5b7"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "/Users/nicholas/Documents/learning/realworl-nuxt/pages/editor",
+        "_name": "_58d0a001"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "/Users/nicholas/Documents/learning/realworl-nuxt/pages/article",
+        "_name": "_062420e2"
+      }
+    ],
+    "_name": "_649f79be"
+  }
+]
